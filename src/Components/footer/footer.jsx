@@ -4,7 +4,7 @@ import styles from "./footer.module.css";
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-      <p className={styles.title}>로그인을 해주세요</p>
+      <p className={styles.title}>Wework</p>
     </footer>
   );
 };
